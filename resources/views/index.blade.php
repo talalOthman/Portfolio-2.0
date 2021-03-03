@@ -46,7 +46,7 @@ https://templatemo.com/tm-528-elegance
             <div class="container-fluid">
                 <div class="navbar">
                     <a href="#slide01" id="logo" title="Elegance by TemplateMo">
-                        Talal
+                        Portfolio
                     </a>
                     <div class="navigation-row">
                         <nav id="navigation">
@@ -452,7 +452,8 @@ https://templatemo.com/tm-528-elegance
                                         </div>
                                     </div>
                                     <div class="col-md-6 animate" data-animate="fadeInUp">
-                                        <form id="ajax-contact" method="post" action="#">
+                                        <form method="post" action="{{url('/send')}}">
+                                            @csrf
                                             <div class="input-field">
                                                 <input type="text" class="form-control" name="name" id="name" required placeholder="Name">
                                             </div>
@@ -464,7 +465,11 @@ https://templatemo.com/tm-528-elegance
                                             </div>
                                             <button class="btn" type="submit">Submit</button>
                                         </form>
-                                        <div id="form-messages" class="mt-3"></div>
+                                        
+                                        @if ($message = Session::get('success'))
+                                        <div id="form-messages" class="mt-3"><strong>{{ $message }}</strong></div>
+                                        @endif
+
                                     </div>
                                 </div>
                             </div>
@@ -477,10 +482,10 @@ https://templatemo.com/tm-528-elegance
         <div id="social-icons">
             <div class="text-right">
                 <ul class="social-icons">
-                    <li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#" title="Instagram"><i class="fa fa-behance"></i></a></li>
+                    
+                    
+                    <li><a href="https://www.linkedin.com/in/talal-othman-50ba48187/" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                    <li><a href="https://github.com/talalOthman" title="Github"><i class="fa fa-github"></i></a></li>
                 </ul>
             </div>
         </div>

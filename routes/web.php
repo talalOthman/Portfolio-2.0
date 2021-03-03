@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SendEmailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,6 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', [SendEmailController::class, 'index']);
+
+Route::post('/send', [SendEmailController::class, 'send']);
+
+Route::get('/#slide07', function(){
+
+})->name('backToEmailForm');
+
