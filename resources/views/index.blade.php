@@ -96,32 +96,24 @@ https://templatemo.com/tm-528-elegance
                                             <div class="animate" data-animate="fadeInUp">
                                                 <span>About Me</span>
                                                 <h2>Who am i?</h2>
-                                                <p>Credits go to <strong>Unsplash</strong> and <strong>Pexels</strong> for photos and video used in this template. Vivamus tincidunt, augue rutrum convallis volutpat, massa lacus tempus leo.</p>
+                                                <p>My name is <strong>Talal Othman Hasan Al-Ahdal.</strong> Currently studying <strong>Software Engineering</strong> at University Technology Malaysia. I'm a person with a goal in mind. One of my main goals in life is to be good at whatever I do. I like to be challenged most of the time because it indicates that I need to improve. I show dedication to whatever I do. I try to learn new things every day.</p>
                                             </div>
                                             <div class="facts-list owl-carousel">
+                                                
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-trophy counter-icon" aria-hidden="true"></i><span class="count-number">32</span> Awards Won
+                                                        <i class="fa fa-code counter-icon" aria-hidden="true"></i><span class="count-number">9</span> Projects
                                                     </div>
                                                 </div>
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-graduation-cap counter-icon" aria-hidden="true"></i><span class="count-number">4</span> Degrees
+                                                        <i class="fa fa-desktop counter-icon" aria-hidden="true"></i><span class="count-number">3</span> Years of coding
                                                     </div>
                                                 </div>
+                                                
                                                 <div class="item animate" data-animate="fadeInUp">
                                                     <div class="counter-box">
-                                                        <i class="fa fa-desktop counter-icon" aria-hidden="true"></i><span class="count-number">12</span> Working Years
-                                                    </div>
-                                                </div>
-                                                <div class="item animate" data-animate="fadeInUp">
-                                                    <div class="counter-box">
-                                                        <i class="fa fa-support counter-icon" aria-hidden="true"></i><span class="count-number">6</span> Team Members
-                                                    </div>
-                                                </div>
-                                                <div class="item animate" data-animate="fadeInUp">
-                                                    <div class="counter-box">
-                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">10</span> Certificates
+                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">2</span> Certificates
                                                     </div>
                                                 </div>
                                             </div>
