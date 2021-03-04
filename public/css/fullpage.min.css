@@ -267,5 +267,15 @@ html.fp-enabled {
     border: 0
 }
 
+.project-link{
+    color: rgb(99, 94, 94);
+    text-decoration: none !important;
+    transition: 0.25s;
+}
+
+.project-link:hover{
+    color:black;
+}
+
 
 /*# sourceMappingURL=fullpage.min.css.map */
