@@ -279,7 +279,7 @@ https://templatemo.com/tm-528-elegance
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Covid-19 Tracker</h4>
-                                                <p>A web application created by using <strong>Javascript framework REACT</strong>. This project tracks the covid 19 cases by fetching data from an API.<br/><a href="" class="project-link">Visit here</a></p>
+                                                <p>A web application created by using <strong>Javascript framework REACT</strong>. This project tracks the covid 19 cases by fetching data from an API.<br/><a href="https://covid-19-tracker-74390.web.app" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -290,7 +290,7 @@ https://templatemo.com/tm-528-elegance
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Leave Application Management System</h4>
-                                                <p>A website created using <strong>vanilla PHP</strong>. This system contains an Authenticaion for several users with different views.<br/><a href="" class="project-link">Visit here</a></p>
+                                                <p>A website created using <strong>vanilla PHP</strong>. This system contains an Authenticaion for several users with different views.<br/><a href="https://github.com/talalOthman/Leave-Application-Management-System" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -301,7 +301,7 @@ https://templatemo.com/tm-528-elegance
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Sports Venue Booking System</h4>
-                                                <p>A web application created using <strong>vanilla Java</strong>. This system contains an Authenticaion for several different user types.<br/><a href="" class="project-link">Visit here</a></p>
+                                                <p>A web application created using <strong>vanilla Java</strong>. This system contains an Authenticaion for several different user types.<br/><a href="https://github.com/talalOthman/Sport-Venue-Booking" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -312,7 +312,7 @@ https://templatemo.com/tm-528-elegance
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Shared Learning Web Application</h4>
-                                                <p>A calendar web app created using <strong>PHP framework Laravel.</strong> This project is using several social media platform APIs for Authenticaion<br/><a href="" class="project-link">Visit here</a></p>
+                                                <p>A calendar web app created using <strong>PHP framework Laravel.</strong> This project is using several social media platform APIs for Authenticaion<br/><a href="http://slwa.herokuapp.com" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
