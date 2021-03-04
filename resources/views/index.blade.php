@@ -266,7 +266,7 @@ https://templatemo.com/tm-528-elegance
                                                 <img src="images/Old-portfolio.PNG" class="project-image" alt="Old-portfolio">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Old Portfolio</h4>
+                                                <h4 class="project-title">Old Portfolio</h4>
                                                 <p>A website created using <strong>CSS, HTML, and Javascript</strong>. No frameworks or libraries were used during the development of this project.<br/><a href="https://talalothman.github.io/Portfolio-Website/" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
@@ -275,32 +275,22 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img class="project-image"src="images/covid-19-tracker.jpg" alt="Covid-19-tracker">
+                                                <img class="project-image"src="images/covid.JPG" alt="Covid-19-tracker">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Covid-19 Tracker</h4>
+                                                <h4 class="project-title">Covid-19 Tracker</h4>
                                                 <p>A web application created by using <strong>Javascript framework REACT</strong>. This project tracks the covid 19 cases by fetching data from an API.<br/><a href="https://covid-19-tracker-74390.web.app" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
+                                    
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-3.jpg" alt="">
+                                                <img class="project-image" src="images/sport.JPG" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Leave Application Management System</h4>
-                                                <p>A website created using <strong>vanilla PHP</strong>. This system contains an Authenticaion for several users with different views.<br/><a href="https://github.com/talalOthman/Leave-Application-Management-System" class="project-link">Visit here</a></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="portfolio-item">
-                                            <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
-                                            </div>
-                                            <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Sports Venue Booking System</h4>
+                                                <h4 class="project-title">Sports Venue Booking System</h4>
                                                 <p>A web application created using <strong>vanilla Java</strong>. This system contains an Authenticaion for several different user types.<br/><a href="https://github.com/talalOthman/Sport-Venue-Booking" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
@@ -308,10 +298,10 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
+                                                <img class="project-image" src="images/SLWA.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Shared Learning Web Application</h4>
+                                                <h4 class="project-title">Shared Learning Web Application</h4>
                                                 <p>A calendar web app created using <strong>PHP framework Laravel.</strong> This project is using several social media platform APIs for Authenticaion<br/><a href="http://slwa.herokuapp.com" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>

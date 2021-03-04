@@ -111,10 +111,10 @@
                 loop: false,
                 nav: false,
                 dots: true,
-                items: 3,
+                items: 2,
                 autoplay: true,
                 smartSpeed: 700,
-                autoplayTimeout: 4000,
+                autoplayTimeout: 7000,
                 responsive: {
                     0: {
                         items: 1,
@@ -123,11 +123,8 @@
                     576: {
                         items: 2,
                         margin: 20
-                    },
-                    992: {
-                        items: 3,
-                        margin: 30
                     }
+                    
                 }
             });
         }
