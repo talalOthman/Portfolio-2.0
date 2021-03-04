@@ -263,7 +263,7 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/Old-portfolio.PNG" alt="Old-portfolio">
+                                                <img src="images/Old-portfolio.PNG" class="project-image" alt="Old-portfolio">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Old Portfolio</h4>
@@ -275,7 +275,7 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img class="project-image" style="width: 370px; height: 400px;" src="images/item-2.jpg" alt="">
+                                                <img class="project-image"src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Covid-19 Tracker</h4>
