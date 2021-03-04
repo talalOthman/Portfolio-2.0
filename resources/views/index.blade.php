@@ -113,11 +113,7 @@ https://templatemo.com/tm-528-elegance
                                                     </div>
                                                 </div>
                                                 
-                                                <div class="item animate" data-animate="fadeInUp">
-                                                    <div class="counter-box">
-                                                        <i class="fa fa-certificate counter-icon" aria-hidden="true"></i><span class="count-number">2</span> Certificates
-                                                    </div>
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -214,7 +210,7 @@ https://templatemo.com/tm-528-elegance
                                 <h2>What I'm good?</h2>
                             </div>
                             <div class="services-section">
-                                <div class="services-list owl-carousel">
+                                <div class="skills-list owl-carousel">
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-bookmark" aria-hidden="true"></i></span>
