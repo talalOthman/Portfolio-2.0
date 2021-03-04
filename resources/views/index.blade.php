@@ -29,6 +29,8 @@ https://templatemo.com/tm-528-elegance
 
     <link rel="stylesheet" href="css/responsive.css">
 
+    <link rel="icon" type="image/png" href="images/briefcase.png"/>
+
     </head>
     
     <body>
