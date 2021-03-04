@@ -393,13 +393,13 @@ https://templatemo.com/tm-528-elegance
                                     <div class="col-md-6 animate" data-animate="fadeInUp">
                                         <div class="contact-box">
                                             <div class="contact-row">
-                                                <i class="fa fa-map-marker"></i> 123 New Street Here, Wonderful City 10220
+                                                <i class="fa fa-map-marker"></i> Malaysia
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-phone"></i> 090 080 0210
+                                                <i class="fa fa-phone"></i> +601156222820
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-envelope"></i> info@company.co
+                                                <i class="fa fa-envelope"></i> ohtalal@graduate.utm.my
                                             </div>
                                         </div>
                                     </div>
