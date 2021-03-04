@@ -259,17 +259,19 @@ https://templatemo.com/tm-528-elegance
                             </div>
                             <div class="gallery-section">
                                 <div class="gallery-list owl-carousel">
+
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-1.jpg" alt="">
+                                                <img src="images/item-2.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Shared Learning Web Application</h4>
-                                                <p>A calendar web app created using <strong>PHP framework Laravel.</strong> This project is using several social media platform APIs for Authenticaion<br/><a href="" class="project-link">Visit here</a></p>
+                                                <h4>Old Portfolio</h4>
+                                                <p>A website created using <strong>CSS, HTML, and Javascript</strong>. No frameworks or libraries were used during the development of this project.<br/><a href="https://talalothman.github.io/Portfolio-Website/" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
@@ -306,14 +308,15 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/item-2.jpg" alt="">
+                                                <img src="images/item-1.jpg" alt="">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
-                                                <h4>Old Portfolio</h4>
-                                                <p>A website created using <strong>CSS, HTML, and Javascript</strong>. No frameworks or libraries were used during the development of this project.<br/><a href="https://talalothman.github.io/Portfolio-Website/" class="project-link">Visit here</a></p>
+                                                <h4>Shared Learning Web Application</h4>
+                                                <p>A calendar web app created using <strong>PHP framework Laravel.</strong> This project is using several social media platform APIs for Authenticaion<br/><a href="" class="project-link">Visit here</a></p>
                                             </div>
                                         </div>
                                     </div>
+                                    
                                    
                                    
                                   
