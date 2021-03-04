@@ -399,7 +399,7 @@ https://templatemo.com/tm-528-elegance
                                         </div>
                                     </div>
                                     <div class="col-md-6 animate" data-animate="fadeInUp">
-                                        <form method="post" action="https://talal-portfolio.herokuapp.com/send">
+                                        <form method="post" action="{{route('send')}}">
                                             @csrf
                                             <div class="input-field">
                                                 <input type="text" class="form-control" name="name" id="name" required placeholder="Name">

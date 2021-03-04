@@ -16,7 +16,7 @@ use App\Http\Controllers\SendEmailController;
 
 Route::get('/', [SendEmailController::class, 'index']);
 
-Route::post('/send', [SendEmailController::class, 'send']);
+Route::post('/send', [SendEmailController::class, 'send'])->name('send');
 
 Route::get('/#slide07', function(){
 
