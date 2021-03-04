@@ -263,7 +263,7 @@ https://templatemo.com/tm-528-elegance
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="portfolio-item">
                                             <div class="thumb">
-                                                <img src="images/Old-portfolio.png" alt="Old-portfolio">
+                                                <img src="images/Old-portfolio.PNG" alt="Old-portfolio">
                                             </div>
                                             <div class="thumb-inner animate" data-animate="fadeInUp">
                                                 <h4>Old Portfolio</h4>
