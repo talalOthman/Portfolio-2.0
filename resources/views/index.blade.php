@@ -31,6 +31,9 @@ https://templatemo.com/tm-528-elegance
 
     <link rel="icon" type="image/png" href="images/briefcase.png"/>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+
+
     </head>
     
     <body>
@@ -207,64 +210,71 @@ https://templatemo.com/tm-528-elegance
                         <div class="col-md-8 wide-col-laptop">
                             <div class="title-block animate" data-animate="fadeInUp">
                                 <span>My skills</span>
-                                <h2>What I'm good?</h2>
+                                <h2>My technical and soft skills</h2>
                             </div>
                             <div class="services-section">
                                 <div class="skills-list owl-carousel">
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-bookmark" aria-hidden="true"></i></span>
-                                            <h3>Bootstrap Themes</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="devicon-php-plain" aria-hidden="true"></i></span>
+                                            <h3>PHP</h3>
+                                            <p>I developed multiple projects using PHP. I use laravel while developing with PHP. Furthermore, I can also develop functional web applications using vanilla PHP</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
-                                            <h3>HTML5 Coding</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="devicon-javascript-plain" aria-hidden="true"></i></span>
+                                            <h3>JavaScript</h3>
+                                            <p>I always use javascript while developing the front-end of the projects I work on. I use React.js while developing user interfaces for a specifc project.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-desktop" aria-hidden="true"></i></span>
-                                            <h3>Fully Responsive</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="devicon-html5-plain-wordmark" aria-hidden="true"></i></span>
+                                            <h3>HTML</h3>
+                                            <p>I beileve I know all the tricks that are useful in HTML. Furthermore, I know how to work with forms while using HTML.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
-                                            <h3>Mobile Ready</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="devicon-css3-plain-wordmark" aria-hidden="true"></i></span>
+                                            <h3>CSS</h3>
+                                            <p>I'm profiecent with CSS. I developed multiple projects' layout using only CSS. I implement flex-box or grid whenever I want to develop a certain layout in a project.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-comments" aria-hidden="true"></i></span>
-                                            <h3>Fast Support</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="devicon-java-plain" aria-hidden="true"></i></span>
+                                            <h3>Java</h3>
+                                            <p>I developed multiple projects using Java. I know how to work with javafx, servlets, jsp, jstl, and jdbc. I developed different kinds of projects with Java, including websites and system software.</p>
+                                        </div>
+                                    </div>
+                                    <div class="item animate" data-animate="fadeInUp">
+                                        <div class="service-box">
+                                            <span class="service-icon"><i class="devicon-flutter-plain" aria-hidden="true"></i></span>
+                                            <h3>Dart</h3>
+                                            <p>I worked with Dart during the development of some of my projects. I use Flutter while I develop projects using Dart. I know how to create complex mobile applications using Flutter.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-database" aria-hidden="true"></i></span>
-                                            <h3>24-hour Up Time</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <h3>SQL</h3>
+                                            <p>I can work with SQL to develop databases. I have worked with MYSQL while developing mutliple projects.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-bell" aria-hidden="true"></i></span>
-                                            <h3>Instant Upgrades</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <h3>Communication</h3>
+                                            <p>I believe that communication is an important skill to have. Therefore, I make sure to update my team members with all my progress during the project period. I also do my best to help my team members with technical problems they might face in the future. </p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-camera" aria-hidden="true"></i></span>
-                                            <h3>Always Monitoring</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="fa fa-users" aria-hidden="true"></i></span>
+                                            <h3>Teamwork</h3>
+                                            <p>I believe team work is the key for a successful projects. Therefore, I make sure to make my self as valuable as possible to my team members. I also make sure to help my team members with any problem they are facing. I make sure to finish my assigned tasks as soon as possible to allow other team members to have time to review my work and progress in a specific project. </p>
                                         </div>
                                     </div>
                                 </div>

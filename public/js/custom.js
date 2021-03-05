@@ -105,7 +105,7 @@
         }
         if ($('.skills-list').length) {
             $('.skills-list').owlCarousel({
-                loop: true,
+                loop: false,
                 nav: false,
                 dots: true,
                 items: 2,
