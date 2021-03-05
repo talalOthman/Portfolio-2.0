@@ -132,7 +132,7 @@
         }
         if ($('.gallery-list').length) {
             $('.gallery-list').owlCarousel({
-                loop: true,
+                loop: false,
                 nav: false,
                 dots: true,
                 items: 2,
