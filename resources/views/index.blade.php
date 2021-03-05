@@ -142,60 +142,36 @@ https://templatemo.com/tm-528-elegance
                                 <div class="services-list owl-carousel">
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-bookmark" aria-hidden="true"></i></span>
-                                            <h3>Bootstrap Themes</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="fa fa-picture-o" aria-hidden="true"></i></span>
+                                            <h3>Front-End development</h3>
+                                            <p>I can translate UI/UX design into functional web and mobile applications. Furthermore, I use react.js for most of my front-end development.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-cloud" aria-hidden="true"></i></span>
-                                            <h3>HTML5 Coding</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <h3>Back-End development</h3>
+                                            <p>I can fetch data from the front-end and perform certain logic to the fetched data. Furthermore, I'm able to store data to the database. I use laravel or Java to develop back-end.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
                                             <span class="service-icon"><i class="fa fa-desktop" aria-hidden="true"></i></span>
-                                            <h3>Fully Responsive</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <h3>Full-Stack development</h3>
+                                            <p>I can build a full functional web and mobile application that have the needed UI/UX desgin translated and store data taken from the users.</p>
                                         </div>
                                     </div>
                                     <div class="item animate" data-animate="fadeInUp">
                                         <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-mobile" aria-hidden="true"></i></span>
-                                            <h3>Mobile Ready</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
+                                            <span class="service-icon"><i class="fa fa-file-text" aria-hidden="true"></i></span>
+                                            <h3>Software Documentation</h3>
+                                            <p>I'm able to document and gather requiremnts to develop specific projects.</p>
                                         </div>
                                     </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-comments" aria-hidden="true"></i></span>
-                                            <h3>Fast Support</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-database" aria-hidden="true"></i></span>
-                                            <h3>24-hour Up Time</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-bell" aria-hidden="true"></i></span>
-                                            <h3>Instant Upgrades</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
-                                    <div class="item animate" data-animate="fadeInUp">
-                                        <div class="service-box">
-                                            <span class="service-icon"><i class="fa fa-camera" aria-hidden="true"></i></span>
-                                            <h3>Always Monitoring</h3>
-                                            <p>Nullam auctor, justo vitae accumsan ultrices, arcu ex molestie massa, eu maximus enim tortor vitae quam. </p>
-                                        </div>
-                                    </div>
+                                    
+
+
+                                   
                                 </div>
                             </div>
                         </div>
