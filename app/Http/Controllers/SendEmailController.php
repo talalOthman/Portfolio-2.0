@@ -31,7 +31,7 @@ class SendEmailController extends Controller
             'message'   =>   $request->message
         );
 
-     Mail::to('talal1cool@gmail.com')->send(new SendMail($data));
+     Mail::to('talalothmanse@gmail.com')->send(new SendMail($data));
      return redirect()->route('backToEmailForm')->with('success', 'Thanks for contacting me!');
 
     }

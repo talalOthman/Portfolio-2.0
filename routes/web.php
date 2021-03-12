@@ -18,7 +18,7 @@ Route::get('/', [SendEmailController::class, 'index']);
 
 Route::post('/send', [SendEmailController::class, 'send'])->name('send');
 
-Route::get('/#slide07', function(){
+Route::get('/#slide06', function(){
 
 })->name('backToEmailForm');
 

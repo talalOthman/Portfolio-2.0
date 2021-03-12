@@ -406,7 +406,7 @@ https://templatemo.com/tm-528-elegance
                                                 <i class="fa fa-phone"></i> +601156222820
                                             </div>
                                             <div class="contact-row">
-                                                <i class="fa fa-envelope"></i> ohtalal@graduate.utm.my
+                                                <i class="fa fa-envelope"></i> talalothmanse@gmail.com
                                             </div>
                                         </div>
                                     </div>
